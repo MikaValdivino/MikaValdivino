@@ -1,4 +1,4 @@
-## Olá! Sou a Mikaeli Valdivino ♡
+# Olá! Sou a Mikaeli Valdivino ♡
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaValdivino&show_icons=true&theme=radical)
 
