@@ -1,5 +1,5 @@
 # ✩ Bem-Vindos ao meu GitHub!  ✩ 
-![gif capa](https://static.tumblr.com/2c0794f55d8089b775514e04df2fdec4/bkeuqco/Hlqpcpggk/tumblr_static_tumblr_static__focused_v3.gif)
+![gif capa](https://64.media.tumblr.com/a5cb74ce5e6e26a190a725b5878a3659/tumblr_otowten5yH1tah9pwo2_1280.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaValdivino&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaValdivino&hide_progress=true&theme=tokyonight)
 
