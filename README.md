@@ -1,5 +1,5 @@
 # ✩ Bem-Vindos ao meu GitHub!  ✩ 
-![gif capa](https://64.media.tumblr.com/a5cb74ce5e6e26a190a725b5878a3659/tumblr_otowten5yH1tah9pwo2_1280.gif)
+![gif capa](<img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/dba0c038-362d-4b49-800f-bade8519230f" />)
 
 
 ![gif gradiente](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
