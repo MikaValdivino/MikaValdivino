@@ -20,7 +20,6 @@ testes manuais, API testing, SQL e automação de testes.
 
 ## 🛠️ Tecnologias
 
-![gif gradiente](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 <div style="display: inline_block"><br>
   
@@ -33,8 +32,6 @@ testes manuais, API testing, SQL e automação de testes.
   <img align="center" alt="tailwindcss" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg">
   
 </div>  
-
-![gif gradiente](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 
  ![gif cat heart](https://steamuserimages-a.akamaihd.net/ugc/1848161512059954667/142EFA2670ECCF3F4C44EF99F2B759C111F5708F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
