@@ -1,4 +1,4 @@
-# ✩ Olá! Eu sou a Mikaeli ✩ 
+# ˚｡⋆୨୧˚★⋆ ˚｡⋆୨୧˚. ݁₊ Olá! Eu sou a Mikaeli ˚｡⋆୨୧˚★⋆ ˚｡⋆୨୧˚. ݁₊ 
 ![gif capa](https://i.pinimg.com/originals/0c/bf/9a/0cbf9adbc7378ff499d0451ae50ccd59.gif)
 
 QA / Software Testing
