@@ -1,6 +1,10 @@
-# ✩ Bem-Vindos ao meu GitHub!  ✩ 
+# ✩ Olá! Eu sou a Mikaeli ✩ 
 ![gif capa](https://i.pinimg.com/originals/0c/bf/9a/0cbf9adbc7378ff499d0451ae50ccd59.gif)
 
+QA / Software Testing
+
+Estou em transição para Quality Assurance, estudando
+testes manuais, API testing, SQL e automação de testes.
 
 ![gif gradiente](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
