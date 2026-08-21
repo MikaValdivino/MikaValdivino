@@ -6,6 +6,23 @@ QA / Software Testing
 Estou em transição para Quality Assurance, estudando
 testes manuais, API testing, SQL e automação de testes.
 
+## 🧪 Atualmente estudando
+
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- API Testing
+- Postman
+- SQL
+- Git/GitHub
+- JavaScript
+- Playwright
+
+## 🛠️ Tecnologias
+
+JavaScript · TypeScript · Python · SQL
+Postman · Playwright · Git · GitHub
+
 ![gif gradiente](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 <div style="display: inline_block"><br>
